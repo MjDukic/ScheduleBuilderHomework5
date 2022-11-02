@@ -27,3 +27,5 @@ THEN the saved events persist
 The following animation demonstrates the application functionality:
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/scheduleBuilder-Screenshot.png)
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/scheduleBuilder-Screenshot2.png)
+
+url to deployed website - https://mjdukic.github.io/ScheduleBuilderHomework5/Develop/

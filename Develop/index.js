@@ -2,7 +2,7 @@ $(document).ready(function () {
 
 //to get the current time
  function timeBlocker() {
-    //used moment.js to help get the current hour format
+    //used moment.js to help get the current hour/format
     var currentTime = moment().hours();
 
     $('.time-block').each(function () {
